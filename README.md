@@ -1,2 +1,2 @@
-# bitbucket-conf
-A CLI to manage bitbucket configurations
+# Bitbucket Conf
+A CLI to manage bitbucket configurations.
